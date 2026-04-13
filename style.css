@@ -17,6 +17,12 @@ h1 {
   color: red;
   font-size: 20px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, Helvetica, sans-serif;
+  background: rgb(133, 206, 133);
+  padding: 20px;
+  border: 4px rgb(87, 117, 214);
+  border-radius: 20px;
+  text-align: left;
+  margin: 5px;
   display: block;
 }
 
