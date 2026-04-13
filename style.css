@@ -17,6 +17,14 @@ h1 {
   color: red;
   font-size: 20px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, Helvetica, sans-serif;
+  display: block;
+}
+
+h2 {
+  color: red;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, Helvetica, sans-serif;
+  display: inline;
 }
 
 footer {
