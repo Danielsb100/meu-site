@@ -18,6 +18,8 @@ canvas {
   gap: 10px;
 }
 
+
+
 p {
   color: blue;
   font-size: 20px;
@@ -48,6 +50,21 @@ h1 {
   text-align: left;
   margin: 5px;
   display: block;
+  grid-area: primeiro;
+}
+
+#segundo {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, Helvetica, sans-serif;
+  background: rgb(17, 0, 255);
+  padding: 20px;
+  border: 2px solid rgb(42, 0, 90);
+  border-radius: 20px;
+  text-align: left;
+  margin: 5px;
+  display: block;
+  grid-area: segundo;
 }
 
 h2 {
@@ -61,6 +78,7 @@ footer {
   color: green;
   font-size: 20px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, Helvetica, sans-serif;
+  grid-area: footer;
 }
 
 .link {
